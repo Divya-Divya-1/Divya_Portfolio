@@ -17,7 +17,7 @@ interface Experience {
 const experiences: Experience[] = [
   {
     role: "Security Engineer",
-    org: "Tuppl",
+    org: "Tuppl Technologies Inc.",
     period: "Feb 2026 – Present",
     location: "USA (Remote)",
     highlights: [
